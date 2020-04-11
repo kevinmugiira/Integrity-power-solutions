@@ -23,11 +23,12 @@
   "version": "1.0.0",
   "main": "webpack.mix.js",
   "directories": {
-    "test": "tests"
+    "test": "gh-pages -d resources/views"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+    "homepage": "https://kevinmugiira.github.io/Integrity-power-solutions",
   "description": "",
   "dependencies": {
     "gh-pages": "^2.2.0"
