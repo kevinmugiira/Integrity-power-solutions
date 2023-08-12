@@ -21,11 +21,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     </script>
     <!-- //Meta Tags -->
     <!-- Style-sheets -->
-    <link href="{{asset('asset/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css" media="all">
-    <link href="{{asset('asset/css/style.css')}}" rel="stylesheet" type="text/css" media="all" />
-    <link href="{{asset('asset/css/fontawesome-all.css')}}" rel="stylesheet">
+    <link href="asset/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
+    <link href="asset/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="asset/css/fontawesome-all.css" rel="stylesheet">
     <!--// Style-sheets -->
-    <link rel="stylesheet" type="text/css" href="{{asset('asset/css/easy-responsive-tabs.css')}} " />
+    <link rel="stylesheet" type="text/css" href="asset/css/easy-responsive-tabs.css " />
     <!--web-fonts-->
     <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Raleway:400,500,600,700,800" rel="stylesheet">
@@ -202,8 +202,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </script>
 
 <!-- start-smoth-scrolling -->
-<script type="text/javascript" src="{{asset('asset/js/move-top.js')}}"></script>
-<script type="text/javascript" src="{{asset('asset/js/easing.js')}}"></script>
+<script type="text/javascript" src="asset/js/move-top.js"></script>
+<script type="text/javascript" src="asset/js/easing.js"></script>
 <script type="text/javascript">
     jQuery(document).ready(function ($) {
         $(".scroll").click(function (event) {
